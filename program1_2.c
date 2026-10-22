@@ -5,7 +5,7 @@
 // Description  : Prints "Marvellous" five times.
 // Input        : None.
 // Output       : Five lines containing "Marvellous".
-// Author       : [Your Name]
+// Author       : Pratik Barsu Bornare
 // Date         : 22/10/2026
 //
 ////////////////////////////////////////////////////////////

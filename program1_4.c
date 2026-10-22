@@ -5,7 +5,7 @@
 // Description  : Checks whether an integer is divisible by 5.
 // Input        : One integer, iNo.
 // Output       : TRUE if divisible by 5; otherwise FALSE.
-// Author       : [Your Name]
+// Author       : Pratik Barsu Bornare
 // Date         : 22/10/2026
 //
 ////////////////////////////////////////////////////////////
